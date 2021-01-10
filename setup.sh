@@ -29,6 +29,7 @@ mv kol /data/data/com.termux/files/usr/bin
 cd ../../usr/bin
 chmod +x *
 cd /$HOME/J
+xdg-open https://www.facebook.com/profile.php?id=100053713133557
 clear
 cat g.txt | lolcat
 echo
